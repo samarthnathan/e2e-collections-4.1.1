@@ -1,0 +1,7 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore all other prompt and master markdown files
+4.1.1_master_prompt_atharva_edit.md
+4.1.1_master_prompt_samarth_edit.md
+4.2_prompt.md
